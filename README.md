@@ -1,5 +1,5 @@
-# IP-Lookup Tool
 
+# IP-Lookup Tool
 
 ## A Simple IP/Domain Lookup Tool
 
@@ -23,3 +23,26 @@ Once the build tools are installed, run the following commands in your terminal 
 
 ```bash
 pip install PyQt5 requests geocoder
+```
+
+---
+
+## 🚀 Getting Started
+
+Once you have installed the required libraries, you can run the tool by executing the Python script:
+
+```bash
+python ip_lookup_tool.py
+```
+
+This will start the application, allowing you to input an IP address or domain and gather the associated information.
+
+---
+
+## 💙 Support My Work
+
+If you enjoy my projects, such as **IP-Lookup Tool** or other tools, consider supporting me on **[Buy Me a Coffee](https://buymeacoffee.com/phxnkpxaya)**! ☕️ Your contributions help fund future development, enhancements, and more exciting projects. Every little bit helps and is greatly appreciated. 🙏
+
+Thank you for your support! 💙
+
+---
